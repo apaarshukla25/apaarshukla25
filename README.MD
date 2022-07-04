@@ -6,7 +6,7 @@
 - 🔭 I’m currently doing B.tech from Vellore Institute of Technology.
 - 🌱 I’m currently learning DSA and JAVA.
 - 👯 I’m always exicted to collaborate for open source contributions.
-- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apaarshukla)](https://www.linkedin.com/in/apaar-shukla-b7200a195/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=plastic-square&logo=Gmail&logoColor=white&link=shukla.apaar25@gmail.com)](shukla.apaar25@gmail.com)
+- 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apaarshukla)](https://www.linkedin.com/in/apaar-shukla-b7200a195/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=plastic-square&logo=Gmail&logoColor=white&link=shukla.apaar25@gmail.com)](shukla.apaar25@gmail.com)
 - ⚡ coding , coding and coding!
 
 ## LANGUAGES AND TOOLS
